@@ -1,0 +1,27 @@
+{
+  "name": "ini-loader",
+  "version": "1.0.0",
+  "description": "INI file Webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thesebas/webpack-ini-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "ini",
+    "loader"
+  ],
+  "author": "thesebas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesebas/webpack-ini-loader/issues"
+  },
+  "homepage": "https://github.com/thesebas/webpack-ini-loader#readme",
+  "dependencies": {
+    "ini": "^1.3.4"
+  }
+}
