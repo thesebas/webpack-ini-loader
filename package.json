@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/thesebas/webpack-ini-loader#readme",
   "dependencies": {
-    "ini": "^1.3.4"
+    "ini": "^4.1.0"
   }
 }
