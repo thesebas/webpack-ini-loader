@@ -1,5 +1,5 @@
 {
     "name": "@thesebas/ini-loader",
-    "version": "0.1.0",
-    "exports": "./mod.ts"
-  }
+    "version": "1.0.4",
+    "exports": "./index.ts"
+}
